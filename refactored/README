@@ -1,0 +1,13 @@
+A refactor of the analysis created in the Astronomical Data in Python tutorial with the goals of:
+ - creating a more coherent program
+ - completing the analysis for the entire stream
+
+
+Goal:
+ - create a map of stars in GD1 stellar stream
+
+Strategy:
+ - select stars in the region of the stream using the Koposov coordinate frame
+ - identfy an overdensity cooresponding to the GD1 stars
+ - fit the stars to an appropriate isochrone and filter to nearby stars in the CMD
+ 
